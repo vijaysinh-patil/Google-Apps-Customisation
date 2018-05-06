@@ -1,0 +1,78 @@
+* {
+   /* box-shadow: none !important;*/
+    /* border-radius: 0px !important;
+   font-size: 13px !important;*/
+    /*
+ font-family: ProximaNova, -apple-system, BlinkMacSystemFont,  "Segoe UI", 'Open Sans', Roboto, "Helvetica Neue", Arial, sans-serif !important;
+   color: #666;*/
+    opacity:1;
+}
+.z0>.L3 {    box-shadow:none !important; }
+.gb_Va {
+    border:none !important; 
+    background-color : rgba(255, 255, 255, 0) !important;
+}
+.bqe {font-weight:400 !important;}
+#gb > [class^="gb_"] { 
+   /* background: none repeat scroll 0% 0% #0072C6 !important; */
+    background: linear-gradient(45deg,#FBCA88,#EF69AD) ;
+}
+.brC-brG-avC{
+   /* background: none repeat scroll 0% 0% #0072C6 !important; */
+    background: linear-gradient(90deg,#EF69AD,#FBCA88) !important;
+
+}
+
+.aic, .aeN .ajl {     border-right: 1px solid #e5e5e5; }
+.brC-brG {border-left:none !important;}
+.brC-brG-avC {border-bottom:none !important;}
+
+/***/
+.yO {
+    background: none !important;
+    color: #333 !important;
+}
+
+.brC-brG-a1P-K0, .brC-brG-K7-K0.brC-brG-K7-axY { color:black;}
+
+.zF, .bqe, .bq3 {
+    font-weight: 700;
+}
+
+.y2 {
+    color: #999 !important;
+    font-style: italic;
+}
+
+
+.aAA.J-KU-Jg-K9 {
+  /*  border-top: 1px solid #e5e5e5;*/
+}
+.Zs .zA {
+background: linear-gradient(90deg, rgba(119,177,121,1) 0%, rgba(160,200,161,1) .5%, rgba(255,255,255,1) .5%, rgba(255,255,255,1) 100%);
+}
+
+.aRu {
+    margin-left:15px !important;
+}
+
+.yP {
+    font-weight: 400;
+}
+
+.bx0 {
+    background: #a9d2d2;
+    border-radius: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.a8i.bii {
+ 
+    border-left: none;
+    border-right: none;
+}
+
+.gb_qc .gb_Ne {
+    background: white !important;
+}
+body {background-color:white;}
