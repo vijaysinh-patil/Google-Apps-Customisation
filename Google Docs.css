@@ -1,0 +1,6 @@
+#docs-chrome {    background: linear-gradient(90deg,#FBCA88,#f178a8);}
+.docs-titlebar-buttons { background: linear-gradient(90deg,#fbca8800,#f178a8) !important;}
+#gb > [class^="gb_"] { background: none; }
+.docs-title-input {background-color: #ffffff8a;}
+.gb_Ed, .gb_be, .gb_Ld, .gb_de {background: linear-gradient(90deg,#FBCA88,#f178a8) !important;}
+.docs-homescreen-list-container {padding-right:0px;}
