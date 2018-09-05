@@ -3,3 +3,12 @@
     font-size:16px;
     font-weight:600;
 }
+.gb_qc {
+background: linear-gradient(
+    to right, 
+    #ff9e2c 0%, 
+    #ff9e2c 50%, 
+    #b6701e 50%, 
+    #b6701e 100%
+  );
+}
